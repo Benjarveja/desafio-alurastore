@@ -175,6 +175,6 @@ El análisis comparativo por categorías muestra mayor contribución en líneas 
 ```bash
 git clone https://github.com/Benjarveja/desafio-alurastore.git
 cd desafio-alurastore
-
+```
 Benjarveja
 Proyecto desarrollado para el desafío de Data Science - Alura LATAM.
